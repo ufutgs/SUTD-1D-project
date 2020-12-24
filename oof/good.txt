@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/49335297/how-can-i-use-transparent-images-in-tkinter-without-png // transparent light circle
+https://pythonprogramming.altervista.org/moving-a-rectangle-on-the-canvas-in-tkinter/ //how to use canvas and move object shit stuff
+https://stackoverflow.com/questions/13215215/python-tkinter-animation // how to do movement animation
+https://stackoverflow.com/questions/7165749/open-file-in-a-relative-location-in-python/7166139 //read file in relative position
+https://stackoverflow.com/questions/41779851/how-to-get-an-output-from-shapes-overlapping-python-3-5-tkinter // find unit overlapping 
+https://stackoverflow.com/questions/41778520/automatically-moving-shape-python-3-5-tkinter // loop for killer movement
+https://stackoverflow.com/questions/10959858/tkinter-canvas-move-item-to-top-level // change shape level

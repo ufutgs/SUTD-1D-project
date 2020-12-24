@@ -1,0 +1,73 @@
+1 = path
+2 = door
+3 = locker
+4 = fake locker
+5 = extra 
+6 = table with book(story and guide and puzzle )
+7 = table only
+locker -> must heard walker go out the room , or get fucked boi
+
+8 = item1 (old lantern)
+9 = item2 (skull)
+10  item3 (old book)
+11= item 4(old key)
+12 = item 5 (A scalpel , with fresh blood stain) // book left hand side (the truth , emtpy book if havent take the scalpel) , right hand side (diary of x...)
+13 = table but can interact
+player option:
+w,a,s,d
+item(e)
+interact(f)
+
+normal ending :you open the Door , suddenly , light splashing your eyes , you felt dizzy , just like getting shocked by a flash grenade . In the end , you passed out .
+	       A while later , you wake up , you saw a fimiliar scene , just like how the MC woke up in the hospital . You ask the nurse , about your friends , but they tell you , you are alone , appeared at the enterance of a small village .
+	       You talk about the maze , the game , but they say there is no such thing around the village . You felt confused , but you thought maybe that is just a confusion , maybe you just poisioned by a frog or smth , and causes illusion , as a old key appear in your pocket ....... 
+True ending :  you open the Door. But , you realise something.WhY YoU aRe RuNnInG!?! IsN'T HeRE YoUr TErrItOrY?? You turn around , watching the killer.You swing the scalpel slowly , and suddenly stop , at the position of his heart. You say something you don't know , but also you fimillar with . The Killer start seizure , blood splashing out from his mouth.He knees down , little by little , and colapsed. "Drake , what a shame. I thought you are stronger than David " You said , as you walk back into the maze.
+
+Drake : killer , David : the rich
+the truth : story of drake and david 		
+small diary :
+page 1 : Hi there! Is me, you ! I wrote this...just in case , that me , or you , somehow lost your memory . If this was really happened , dont panic. i peek the map before , there is a lantern at the left side of the maze . The lantern was supposed to be the holy item , usually light up when there is a cruelless survival match going on . But that is just a myth . the gladiators were dead already LOL.
+page 2 : Hi there! is me , again ! Now i am inside of this gaint maze , is kinda dark here , Drake and David seem to be very exicted about this journey. We are not supposed to be here , since the maze is a prohibited ,unholy places , symbol of dark magic , blood...just some cruel stuff going on . But , as a historian , I wont just gave up . Here definitely got some precious material i want .
+page 3 : "kdilel Maze , a forbbiden , unholy place . In their legend , Kdilel Maze seem to be a place for the rich to host a game , a survival game . several people , without any armor , versus a man , with full equipment.The only way to win the game , is to light up the lantern , solving the puzzle , placing an old book , and picking up the old key for the door.Surely , there are a lots of trap, and of course , the killer , walker or whatever you call , trying to kill the survivior."
+	 "This cruel entertainment stay for quite a while , until "X..." incident happened . She , as a witch , found this place, full with greed and lost soul.So, She decided to play one game , one last game , of this whole culture."
+	 "As the game started , the killer , started feeling nausea , and , seizure was occured. Of course , everybody in this game , the survivors , the judge , the rich , all dead in the end ,except Her , "X...".She Started doing dark magic experiments, learning curse. from that on , Nobody saw her anymore , either dead or alive."
+
+
+storyline :
+you wake up in the center of the maze , you forgot smth very important , the only thing along with you is a small diary
+the maze is so dark , i only can see a small distance in front me 
+maybe i should find a lantern 
+i remember there's a lantern around here 
+maybe i should walk around 
+maybe i should draw the map 
+....
+there's a lantern lean against the wall 
+take it 
+it still have fuel , i think that's enough for me escape this shit place
+---------
+you heard the door open somewhere 
+*player should read about the small diary , it contains the hint for the lantern , and some story about the maze
+*correct way : close the lantern and wait
+*
+function of killer wandering or chasing : using sched to delay function , like bukkit scheduler 
+1st time : killer go forward 5 block, left 1 block.and wait for 1 turn
+if player move or player open lantern,game over
+*correct way : dont move, wait for the killer gone "you heard the footstep walk torward you...hmm?It stops?" "1.open lantern,2.move,3.wait"
+						   "you heard the footstep again,but is leaving you ...."
+						   "you heard door opened somewhere
+after getting lantern , head toward the room on top , read the book , the book said "What is truth? History or power? The answer is within the bookshelves in this room "
+(all bookshelf can be interact , and all the book can be taken , but the only "The old book with unrecongnize symbol" is the correct book)
+(all book can be read without take it , but once take it , "You notice that the book is warping.You felt dizzy,and suddenly,you saw a unknown creature you holding,and eat your face..... " , game over)
+
+take book->read the book , the last page "arrgh!! I always forgot to bring this book back to my study, even it just in font of library..." -> go to right side , place the book (both top and bottom room can place book,but only the bottom is correct)
+(how to check ? read the book,they contain the story of this roommaster. if the roomaster is diff from the old book, the killer open the door and kill you (definitely dead ))
+correct way : palce book in the bottom room , hide in the locker,wait for the killer walk away
+
+after that, go out the locker.the book previously cannot read (at the left of the room ) , now can read. It says about the puzzle
+"....These altars , It looks like they need some items to activate it... But why?Why it is in the store room?...."(1st book)
+"LEFT: Library RIGHT: STUDY BOTTOM LEFT: practice room BOTTOM RIGHT: dinning room and store room" (2nd book)
+inside the storerooms , there got three altar each , with different object on it.
+correct way : place the item according to the classes (rich , killer , survivor)
+extra way : instead put the survivor item, change it to the old book (you get a key for the extra room)
+
+

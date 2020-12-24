@@ -1,0 +1,16 @@
+“errghh...Where am I ? ”#you wake up in the center of the maze , you forgot smth very important , the only thing along with you is a small diary#"The maze is so dark, I only can see a small distance in front of me "#"I remember there's a lantern around here "#"Maybe I should walk around "@
+there's a lantern lean against the wall #*take it ? (y for yes , n for no) #You pick up the lantern. #"It still have fuel , I think that's enough for me escape this shit place."#You heard door opened somewhere. #You heard some footstep sounds head torward you..#&1.7,17@
+"......"#"I think he is gone"# you heard door opened somewhere@
+you heard somebody footstep torward you ...#&2.31,9@
+An old altar, made with gold and luxurious jewelry.#There are three item on the table beside the altar.You think you need to put something onto the altar#*1.skull    2.pocket watch    3.knife  #The watch sealed into the altar .@
+An old wooden table, with a lot of blood stain on it.#here are three item on the table beside the table.You think you need to put something onto the table#*1.coin with blood    2.rotten meat    3.golden spoon    #"....."#Suddenly a knife fall straight from top of the ceiling, cut the coin into half..@
+An old chair.#There is nothing left but a paper.#The paper said : "who are you" #*1. you    2.⍓︎□︎◆︎    3.❍︎♏︎#"BAMMMM!!!!"#The chair broke into pieces..@
+"A pumpkin soup. Weirdly enough, they don't serve with spoon.#Luckly , you got a silver spoon.#*place the silver spoon?(y for Yes, n for No).#You place the silver spoon.#You heard someone walk torward you from behind...#&3.32,28@
+"......"#"Ha... Ha... Ha..."#"Now , I just need to find the key,and escape this shitty place.."@
+Finally , the last altar.#You see a hook perfectly fit with the lantern you hold.#*Do you want to hook the lantern? (y for Yes, n for No)#You hang the lantern.#A key shot out from the altar with a loud noise.PICK THE KEY AND RUN!!!#&4.4,31@
+A sudden glare of light shines on the your eyes.# You feel dizzy resulting in him passing out.#"....." #"....." #"Arrghh..Where am I? ", you realise that you are in a hospital.#You then ask the nurse who attended to you about your friends who entered the maze with you and tells you that the villagers found you at the entrance of the village alone.#in the confused state you are in , you went around the village asking if they have seen any of your friends and also about the maze but the villagers appeared to have no knowledge of either.#You than felt even more confused but you try to reason out why no one seems to understand you.#Reasons like the maze was a bad dream or an illusion was the only few reasons you can come out with. # However, as you reach into your pocket, you felt something cold and hard. As you took it out, you felt a shiver travel through your spine. It was the key to the maze.@
+ The light splash on your face. #But, you realise something.WhY YoU aRe RuNnInG!?!# IsN'T HeRE YoUr TErrItOrY?? # You turn around , watching the killer.You swing the scalpel slowly , and suddenly stop , at the position of his heart.#You say something you don't know , but also you fimillar with . #The Killer start seizure , blood splashing out from his mouth.He knees down , little by little , and colapsed.#"Drake , what a shame. I thought you are stronger than David " You said , as you walk back into the maze.
+
+
+
+
